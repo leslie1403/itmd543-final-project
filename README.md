@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Money Manager is a single-page web application that is meant to help track income and expenses, get a quick snapshot of financial state and habits, and explore budgeting resources. The goal is to make budgeting feel simple and visual rather than overwhelming.
+Money Manager is a multi-page web application that is meant to help track income and expenses, get a quick snapshot of financial state and habits, and explore budgeting resources. The goal is to make budgeting feel simple and visual rather than overwhelming.
 
 The application focuses on:
 - Adding income and expense transactions
